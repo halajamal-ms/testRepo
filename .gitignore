@@ -6,4 +6,4 @@ z*
 .env
 
 #Ignore top level artifacts
-/[Aa]rtifacts
+/artifacts/
