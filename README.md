@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/halajamal/85cac0cb-a0fd-4917-abf7-ea71c7845b21/15a48600-630b-4cec-9256-dde64e1327fc/_apis/work/boardbadge/5de537b5-9953-4cc5-9ef0-754749b4011e)](https://dev.azure.com/halajamal/85cac0cb-a0fd-4917-abf7-ea71c7845b21/_boards/board/t/15a48600-630b-4cec-9256-dde64e1327fc/Microsoft.RequirementCategory)
 # Welcome to the Use .gitignore exercise!
 
 This exercise checks your knowledge on using a `.gitignore` file. It is automatically graded via a workflow once you have completed the instructions.
